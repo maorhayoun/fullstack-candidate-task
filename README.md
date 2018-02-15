@@ -1,8 +1,8 @@
-#Q-Fetcher
+# Q-Fetcher
 
 Congrats, you are about to implement an highly sophisticated service, whose sole purpuse is - gathering students questions from various sources.
 
-###Requirements:
+### Requirements:
 * The service should fetch academic questions, which are provided in several data formats. results required to be processed and returned to fetcher. 
 
 * The predefined URLs for the different data sources are specified at manifest file located: [S3_BUCKET_MANIFEST_URL]. 
