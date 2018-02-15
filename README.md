@@ -5,8 +5,8 @@ Congrats, you are about to implement an highly sophisticated service, whose sole
 ### Requirements:
 * The service should fetch academic questions, which are provided in several data formats. results required to be processed and returned to fetcher. 
 
-* The predefined URLs for the different data sources are specified at manifest file located: [S3_BUCKET_MANIFEST_URL]. 
-each line stands as questions data source. 
+* The predefined URLs for the different data sources are specified at following file: [manifest.dat](manifest.dat)  
+Each line stands as questions data source. 
 
 * Data Sources:
 
